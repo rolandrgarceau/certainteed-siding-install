@@ -55,35 +55,57 @@ This may be a mis read if the instructions were not read properly. There may hav
 
 ### Avery Rent-all
 
-At the Rent-all they do not rent ladder jacks for ladders and we need two with a walkboard. I don't think it is realistic to try and work this job off a single ladder. It would be too labor intensive to move the ladder around. Scaffold is 4 1/2 ft tall so we would need minimum of 6 sets to get us 27 feet up.
+At the Rent-all they do not rent ladder jacks for ladders and we need two with a walk board. Steve said he had a few. I don't think it is realistic to try and work this job off a single ladder. It would be too labor intensive to move the ladder around. 
+
+A better option is to get scaffolding (optimal is coming). This will keep us from having to deal with the feet of the ladders as we traverse the gable- that eats up time and space too. Scaffold is 4 1/2 ft tall so we would need minimum of 6 sets to get us 27 feet up. 
 
 Cost | What we get
 |---|---|
+? delivery fee| a big truck with the following:
 $12 per week per set of scaffold | 2 end pieces, 2 cross pieces 
 $24 a month per set of scaffold | same as above
-7.50 per week | individual walkboard  
-22.50 per month | individual walk board
+$ 7.50 per week | individual walkboard  
+$ 22.50 per month | individual walk board
 $3 per wk | each foot
 $9 per month | each foot
-$275 a day | for a lift
+$275 a day | for a lift- possibly
 
 ## Lowes
 
 No one was at building materials today- they had off. I got there at 8:10 last night and were closed. 
 
-### Certain Teed
-* Exposure dimensions: yield .333 square per box
+### Siding with Certain Teed
+
+* Exposure dimensions: yield .333 square per box- is *their* "square" 10ftx10ftx.333 face coverage?
 * There may need to be clips for installation or pins. Will solidify this prior to ordering.
 * Specialty tooling we have. May need to verify slt punch mechanism and vinyl cutters.
 
+Window wrap or appropriate flashing mechanism will be discussed prior to ordering material.
 
 ### Deck Posts
+
 * We will look at 4 1/4 inch 8'2" posts- so comparable 4x6 PT- quantity 10. 
 * SawZall Blades
 * Anchoring mechanism need to be discovered if we wish to try and reuse metal ground plates. Idea is to use a countersink bit on angle and plug the holes at the base. Intent is to pierce decking to lower post for a solid connection- no strap to be used.
 * Primer
 * Sprayer
 * Didn't discuss anyone we know with a sandblaster? Maybe just a good old hand job with a scraper. Yup, I said it. Manual labor's cousin is hose- jose:)
-* bottle jacks
+* bottle jacks and a jacking post (we can start by removing the one not connected to ceiling)
+* 3/4 round router for posts
 
-Notables: We should firm up the direction to take with the floor sag. We could separate the plate and band to add a shim below, bringing the deck up to level. 
+### Notables: 
+
+#### Siding- best scenario
+
+We need to come back and take a closer look at the upstairs window. Provided we stick our head out there and see no visible signs of water intrusion, and that there is a proper channel mechanism still in place to divert the water, we can proceed with the install request to use the same starting point of the existing shingles on the left side of window. However, the starter needs to be confirmed it was in fact began with the proper install. We will inspect the clips and if there were shims employed, and provided we have all the factors in place to proceed we may continue off that line. 
+
+The main point of concern is that we are not introducing an air space for the winds to gain access behind the shingles from the bottom, and that the install procedures can be followed for securing each piece to the rake and behind the soffit. Hopefully there is solid wood around the F channel.
+
+Optimal conditions could warrant the use of a lift for the day. The ground appeared to be level enough and have the ability to bring it around the back. We didn't perk the ground, but it may also suffice and not sink. I have some long runner boards I use to get my boat out of the swamp in my back yard. The main concern is that we can get the entire job complete in a day. I think with all the concerns above ironed out ahead of time we may be able to make that happen. It may be a half day more if there is only minor conditions to address like channels and starters. I may be 2 days if we have to replace nailer at soffit, and more if the window has wood damage.
+
+#### Posts and deck
+
+We should firm up the direction to take with the floor sag. We could separate the plate and band to add a shim below, bringing the deck up to level. The best time to remediate oxidation on your railing is when it is down. Sandblasting is quick. I might know a guy with a big bag of crushed walnut shells... But if we are looking at the "get-r-dun" method we all have scrapers and know how to use them. I would at least like to see all the pressure treated and grey wood exposed primed before we part ways- it would just make me feel better. 
+
+Remind me about the enamel and sander and I will take care of the rusted door just cuz:) If thats clawing dog we could talk about a guard like the pick guard on that guitar.
+
