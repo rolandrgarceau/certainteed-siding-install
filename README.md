@@ -107,5 +107,7 @@ Optimal conditions could warrant the use of a lift for the day. The ground appea
 
 We should firm up the direction to take with the floor sag. We could separate the plate and band to add a shim below, bringing the deck up to level. The best time to remediate oxidation on your railing is when it is down. Sandblasting is quick. I might know a guy with a big bag of crushed walnut shells... But if we are looking at the "get-r-dun" method we all have scrapers and know how to use them. I would at least like to see all the pressure treated and grey wood exposed primed before we part ways- it would just make me feel better. 
 
-Remind me about the enamel and sander and I will take care of the rusted door just cuz:) If thats clawing dog we could talk about a guard like the pick guard on that guitar.
+I have a few fiends that have saw mills. I am going to reach out to them and see if there is any antifungal or otherwise treatment for exterior exposed wood application that they treat their material with. I have dealt with this before with a product called I-level, and they had a treatment program for their lumber. I wanted to mention that to you too because their production facility employs rf and lasers (I know the latter, but I think the former too) to make 24 ft boards come out perfectly straight. Every single board gets a serial number and can be tracked to the production date for QC.
+
+Remind me about the enamel and sander and I will take care of the rusted door just cuz:) If that's the result of a clawing dogor two, we could talk about a guard like the pick guard on that guitar.
 
