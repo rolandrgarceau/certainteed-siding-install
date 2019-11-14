@@ -51,3 +51,39 @@ See page 115. This gives the math equation to calculate the full course height a
 #### Install Cedar Impressions Metal Shingle Starter 
 
 This may be a mis read if the instructions were not read properly. There may have been a metal starter that blew off somewhere? See page 97. There is not a mention of a metal starter for the round shingles- that could be a little confusing. 
+
+
+### Avery Rent-all
+
+At the Rent-all they do not rent ladder jacks for ladders and we need two with a walkboard. I don't think it is realistic to try and work this job off a single ladder. It would be too labor intensive to move the ladder around. Scaffold is 4 1/2 ft tall so we would need minimum of 6 sets to get us 27 feet up.
+
+Cost | What we get
+|---|---|
+$12 per week per set of scaffold | 2 end pieces, 2 cross pieces 
+$24 a month per set of scaffold | same as above
+7.50 per week | individual walkboard  
+22.50 per month | individual walk board
+$3 per wk | each foot
+$9 per month | each foot
+$275 a day | for a lift
+
+## Lowes
+
+No one was at building materials today- they had off. I got there at 8:10 last night and were closed. 
+
+### Certain Teed
+* Exposure dimensions: yield .333 square per box
+* There may need to be clips for installation or pins. Will solidify this prior to ordering.
+* Specialty tooling we have. May need to verify slt punch mechanism and vinyl cutters.
+
+
+### Deck Posts
+* We will look at 4 1/4 inch 8'2" posts- so comparable 4x6 PT- quantity 10. 
+* SawZall Blades
+* Anchoring mechanism need to be discovered if we wish to try and reuse metal ground plates. Idea is to use a countersink bit on angle and plug the holes at the base. Intent is to pierce decking to lower post for a solid connection- no strap to be used.
+* Primer
+* Sprayer
+* Didn't discuss anyone we know with a sandblaster? Maybe just a good old hand job with a scraper. Yup, I said it. Manual labor's cousin is hose- jose:)
+* bottle jacks
+
+Notables: We should firm up the direction to take with the floor sag. We could separate the plate and band to add a shim below, bringing the deck up to level. 
