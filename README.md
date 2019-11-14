@@ -1,5 +1,28 @@
 # [CertainTeed Cedar impressions shingles](https://docs.certainteed.com/v/siding-group-product-catalog?_ga=2.113610823.133233729.1573514535-1372786020.1573514535)
 
+## Contact info
+
+828-459-0556 Clairmont NC
+
+800-782-8777 toll free
+
+City | Where and contact number
+|---|---|
+Johnson city | Lowes and Best Distributing in TN
+Hickory | Lyftym 828-324-9002
+Statesville | Best Distributing 704-873-4565
+Asheville | 828-687-8787
+Clemmons | Stock Building Supply 336-712-9910.
+Charlotte | no data
+Winston | Eastern Aluminum 336-767-0909.
+
+cedar impressions
+Polymer Shingle Siding – Perfection Finish
+Product Code 30128
+
+* Desert Tan color code 07
+* Savannah Wicker color code 59
+
 Product Code:  30128  Finish:  Perfection  Length:  32"  Thickness:  .100"  Exposure:  12-1/2"  Projection:  3/4"  Panels/Ctn.:  12  Squares/Ctn.:  .333  Car tons/ Pallet:  16  lbs./Ctn.:  ≤ 2
 
 ## [Installation Website](https://www.certainteed.com/siding/products/cedar-impressions-6-14-half-round-shingles/) 
@@ -68,7 +91,7 @@ $ 7.50 per week | individual walkboard
 $ 22.50 per month | individual walk board
 $3 per wk | each foot
 $9 per month | each foot
-$275 a day | for a lift- possibly
+$185 a day| 34 ft tall lift $75 delivery order ahead 3-4 days 
 
 ## Lowes
 
@@ -77,7 +100,9 @@ No one was at building materials today- they had off. I got there at 8:10 last n
 ### Siding with Certain Teed
 
 * Exposure dimensions: yield .333 square per box- is *their* "square" 10ftx10ftx.333 face coverage?
+  * 3 boxes for a square
 * There may need to be clips for installation or pins. Will solidify this prior to ordering.
+* Lowes No desert Tan for the rounded shingle. Closest is Savannah wicker.
 * Specialty tooling we have. May need to verify slt punch mechanism and vinyl cutters.
 
 Window wrap or appropriate flashing mechanism will be discussed prior to ordering material.
